@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JustJavaJio</string>
+
+    <string name="action_settings">paramètres</string>
+    <string name="name">Tapez votre nom ici</string>
+    <string name="quantity">Quantité</string>
+    <string name="toppings">Ingrédients</string>
+    <string name="chocolate">le chocolat</string>
+    <string name="cinnamon">cannelle</string>
+    <string name="whippedcream">crème fouettée</string>
+    <string name="cookies">gâteau</string>
+    <string name="order">commande</string>
+</resources>
